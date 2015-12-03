@@ -1,5 +1,8 @@
 # dissonance
 
+[![License](https://img.shields.io/github/license/anowlcalledjosh/dissonance.svg?style=flat-square)](https://github.com/anowlcalledjosh/dissonance/blob/master/LICENSE)
+[![Issues](https://img.shields.io/github/issues/anowlcalledjosh/dissonance.svg?style=flat-square)](https://github.com/anowlcalledjosh/dissonance/issues)
+
 dissonance - a bot framework for Discord, written in Python using discord.py.
 
 ## Dependencies
