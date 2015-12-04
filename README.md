@@ -1,7 +1,7 @@
 # dissonance
 
-[![License](https://img.shields.io/github/license/anowlcalledjosh/dissonance.svg?style=flat-square)](https://github.com/anowlcalledjosh/dissonance/blob/master/LICENSE)
-[![Issues](https://img.shields.io/github/issues/anowlcalledjosh/dissonance.svg?style=flat-square)](https://github.com/anowlcalledjosh/dissonance/issues)
+![Last release](https://img.shields.io/badge/release-v0.1.0-blue.svg?style=flat-square)
+![Open issues](https://img.shields.io/github/issues/anowlcalledjosh/dissonance.svg?style=flat-square)
 
 dissonance - a bot framework for Discord, written in Python using discord.py.
 
